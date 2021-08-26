@@ -218,11 +218,13 @@ img {
     max-width: 1000px;
     height: 88vh;
 }
+
 @media (max-width: 768px) {
     .error-wrapper {
-      padding: 0 1rem;
+        height: 84vh;
+        padding: 0 1rem;
     }
-  }
+}
 
 .error-wrapper .error-text {
     display: -webkit-box;
