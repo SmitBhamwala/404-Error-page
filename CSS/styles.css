@@ -221,7 +221,7 @@ img {
 
 @media (max-width: 768px) {
     .error-wrapper {
-        height: 70vh;
+        height: 80vh;
         padding: 0 1rem;
     }
 }
